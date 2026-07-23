@@ -1,4 +1,4 @@
-package com.sist.controller;
+package com.sist.web;
 
 import java.util.*;
 

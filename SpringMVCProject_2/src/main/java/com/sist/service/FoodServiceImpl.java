@@ -11,7 +11,7 @@ import lombok.RequiredArgsConstructor;
 @Service
 @RequiredArgsConstructor
 
-public class FoodServiceImp implements FoodService{
+public class FoodServiceImpl implements FoodService{
     private final FoodDAO dao;
 	
 	@Override
